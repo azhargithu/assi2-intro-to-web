@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "intro to web prj", "intro to web prj.csproj", "{187DCBF6-DB6F-4742-AA4C-75985005917E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187DCBF6-DB6F-4742-AA4C-75985005917E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187DCBF6-DB6F-4742-AA4C-75985005917E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187DCBF6-DB6F-4742-AA4C-75985005917E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187DCBF6-DB6F-4742-AA4C-75985005917E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF396D47-F0AB-41D3-85F9-6D30B979B9C1}
+	EndGlobalSection
+EndGlobal
