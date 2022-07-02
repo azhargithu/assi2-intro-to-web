@@ -8,5 +8,21 @@ namespace intro_to_web_prj.Controllers
         {
             return View();
         }
+         public IActionResult Login(   string uname, string email)
+                {
+            if(uname=="test" && email == "test" )
+                {
+                    ViewBag.Message = "Login Successfull";
+                }
+                else
+                {
+                    ViewBag.Message = "Login Failed";
+                }
+            
+
+
+            return View("Index");
+                }
+
     }
 }
